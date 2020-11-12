@@ -1,0 +1,181 @@
+[{
+        "name": "Jacob's Dream",
+        "category": "ACU Places of Interest",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "extended": "Jacob's Dream Sculpture at ACU",
+        "coordinates": {
+            "latitude": 32.468561,
+            "longitude": -99.706399
+        },
+        "imageName": "jacob"
+    },
+    {
+        "name": "Wildcat Stadium",
+        "category": "ACU Places of Interest",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "extended": "Anthony Field at Wildcat Stadium",
+        "coordinates": {
+            "latitude": 32.473449,
+            "longitude": -99.709054
+        },
+        "imageName": "stadium"
+    },
+    {
+        "name": "Brown Library",
+        "category": "ACU Places of Interest",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "extended": "ACU's University Library",
+        "coordinates": {
+            "latitude": 32.469002,
+            "longitude": -99.709601
+        },
+        "imageName": "library"
+    },
+    {
+        "name": "Moody Coliseum",
+        "category": "ACU Places of Interest",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": false,
+        "extended": "Moody Coliseum / Arena",
+        "coordinates": {
+            "latitude": 32.470468,
+            "longitude": -99.708925
+        },
+        "imageName": "moody"
+    },
+    {
+        "name": "Wildcat Disc Golf",
+        "category": "Abilene Disc Golf Courses",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "extended": "ACU's Wildcat Disc Golf Course",
+        "coordinates": {
+            "latitude": 32.462513,
+            "longitude": -99.715926
+        },
+        "imageName": "wildcat"
+    },
+    {
+        "name": "Will Hair",
+        "category": "Abilene Disc Golf Courses",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "extended": "Will Hair Disc Golf Course",
+        "coordinates": {
+            "latitude": 32.472994,
+            "longitude": -99.720304
+        },
+        "imageName": "will"
+    },
+    {
+        "name": "Cal Young",
+        "category": "Abilene Disc Golf Courses",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "extended": "Cal Young Disc Golf Course",
+        "coordinates": {
+            "latitude": 32.441756,
+            "longitude": -99.713339
+        },
+        "imageName": "cal"
+    },
+    {
+        "name": "Cheyenne Cove",
+        "category": "Abilene Disc Golf Courses",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "extended": "Cheyenne Cove Disc Golf Course",
+        "coordinates": {
+            "latitude": 32.614721,
+            "longitude": -99.678535
+        },
+        "imageName": "cheyenne"
+    },
+    {
+        "name": "Over Texas",
+        "category": "Six Flags Locations",
+        "city": "Arlington",
+        "state": "Texas",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": true,
+        "extended": "Six Flags Over Texas",
+        "coordinates": {
+            "latitude": 32.754952,
+            "longitude": -97.070464
+        },
+        "imageName": "overt"
+    },
+    {
+        "name": "Fiesta Texas",
+        "category": "Six Flags Locations",
+        "city": "San Antonio",
+        "state": "Texas",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "extended": "Six Flags Fiesta Texas",
+        "coordinates": {
+            "latitude": 29.597696,
+            "longitude": -98.610840
+        },
+        "imageName": "fiesta"
+    },
+    {
+        "name": "Magic Mountain",
+        "category": "Six Flags Locations",
+        "city": "Valencia",
+        "state": "California",
+        "id": 1011,
+        "isFeatured": true,
+        "isFavorite": false,
+        "extended": "Six Flags Magic Mountain",
+        "coordinates": {
+            "latitude": 34.425380,
+            "longitude": -118.597238
+        },
+        "imageName": "magic"
+    },
+    {
+        "name": "Over Georgia",
+        "category": "Six Flags Locations",
+        "city": "Austell",
+        "state": "Georgia",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "extended": "Six Flags Over Georgia",
+        "coordinates": {
+            "latitude": 33.768995,
+            "longitude": -84.550447
+        },
+        "imageName": "overg"
+    }
+]
